@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Pattaya&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Marck+Script|Pattaya&display=swap');
+
+body
+ {
+  font-family: 'Pattaya', sans-serif;
+  color: green;
+}
+ 
+.title
+{
+ font-family: 'Marck Script', cursive;
+  color: red ;
+}
+ 
